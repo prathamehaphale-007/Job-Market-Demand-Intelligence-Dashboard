@@ -96,7 +96,7 @@ Power BI Dashboard
 
 # 📂 Project Structure
 
-
+```
 Job-Market-Intelligence/
 │
 ├── notebooks/
@@ -113,6 +113,7 @@ Job-Market-Intelligence/
 │
 ├── README.md
 └── requirements.txt
+```
 
 
 ---
@@ -143,7 +144,7 @@ pip install pandas matplotlib seaborn databricks-sql-connector
 
 Example Python connection code:
 
-
+```
 from databricks import sql
 import pandas as pd
 
@@ -155,7 +156,7 @@ access_token="your-access-token"
 
 query = "SELECT * FROM analytics_view"
 df = pd.read_sql(query, connection)
-
+```
 
 ---
 
