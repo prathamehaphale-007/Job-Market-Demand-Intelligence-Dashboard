@@ -109,10 +109,9 @@ Job-Market-Intelligence/
 │ └── powerbi_dashboard.pbix
 │
 ├── images/
-│ └── dashboard_preview.png
+│ └── Job-Market-Demand-Intelligence.png
 │
 ├── README.md
-└── requirements.txt
 ```
 
 
