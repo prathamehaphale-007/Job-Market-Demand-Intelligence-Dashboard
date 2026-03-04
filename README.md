@@ -125,7 +125,7 @@ Follow these steps to run the analysis locally.
 ## 1️⃣ Clone the Repository
 
 
-git clone https://github.com/prathamehaphale-007/job-market-intelligence.git
+git clone https://github.com/prathamehaphale-007/Job-Market-Demand-Intelligence-Dashboard.git
 
 cd job-market-intelligence
 
