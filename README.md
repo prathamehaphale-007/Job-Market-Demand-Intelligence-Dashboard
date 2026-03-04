@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image Mar 4, 2026, 10_14_37 AM" src="https://github.com/user-attachments/assets/bb992c52-5b21-4894-8b25-c45374243b2b" /># 📊 Job Market Demand Intelligence Dashboard
+# 📊 Job Market Demand Intelligence Dashboard
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Azure](https://img.shields.io/badge/Azure-Databricks-0078D4)
